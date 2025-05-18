@@ -2,6 +2,28 @@
 
 This file tracks significant updates to the context network structure and content.
 
+## Context Network Update: Deno-Specific Custom Instructions - 2025-05-18
+
+### Information Nodes Modified/Created
+- Created `inbox/deno-custom-instructions-prompt.md`: Tailored version of custom instructions for Deno development projects
+
+### Content Changes
+- Updated domain terminology to reflect Deno-specific artifacts
+- Added Deno-specific directory structure recommendations
+- Included Deno-specific domain classifications (Runtime, Security, Modules, TypeScript, etc.)
+- Added Deno-specific relationship types
+- Added new sections for Deno Security Considerations and Deno Module Management
+- Enhanced Implementation Mode guidelines with Deno best practices
+
+### Navigation Implications
+- The new custom instructions provide a more tailored guide for maintaining context networks in Deno projects
+- Future Deno projects should consider using the Deno-specific instructions for better context organization
+
+### Follow-up Recommendations
+- Test the Deno-specific instructions in real-world Deno projects to validate effectiveness
+- Consider creating additional custom instruction variants for other specific technologies
+- Periodically update the Deno-specific instructions as the Deno ecosystem evolves
+
 ## Context Network Update: Deno Knowledge Integration - 2025-05-18
 
 ### Information Nodes Modified/Created

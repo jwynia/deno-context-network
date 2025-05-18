@@ -1,7 +1,5 @@
-# Bare Context Network
-This project is a starter template for a generic context-network (more info at https://jwynia.github.io/context-networks/). It can be used as a collaboration context manager for a wide range of projects. They are used for software projects, writing projects of all kinds (fiction, non-fiction, marketing, technical, etc.), building knowledge bases, managing research and analysis and more.
-
-This particular template repository is generic so that it isn't aimed at any one of those project types. Other templates exist (or will soon) that are aimed at common project types. Look at those and use one if it seems like a good match. But, if not, use this one.
+# Deno Context Network
+This project is a starter template for a Deno-based software project context-network (more info at https://jwynia.github.io/context-networks/). It can be used as a collaboration context manager for building Deno apps of all kinds.
 
 ## Getting Started
 Context networks are intended to be used with an LLM agent that has file access to all of the files in the project folder. For people in software development professions, that can be agents they write. But, for most people, the easiest access to such agents is via IDE coding tools.
